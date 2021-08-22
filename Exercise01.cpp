@@ -1,6 +1,5 @@
-
 #include <iostream>
-#include "student.h"
+#include "Student.h"
 using namespace std;
 int main() {
   
@@ -11,4 +10,3 @@ int main() {
 //==========================
    return 0;
 }
- 
